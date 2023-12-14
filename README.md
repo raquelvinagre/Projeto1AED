@@ -2,10 +2,15 @@
 
 Este é o código-fonte para o primeiro projeto de AED 2023-2024.
 
+## Team Members
+
+| Nmec   | Name           | Email                  | Github                                                |
+| ------ | -------------- | ---------------------- | ----------------------------------------------------- |
+| 114137 | Diogo Fernandes    | <diogomiguel.fernandes@ua.pt>    | [diogu](https://github.com/diogux)       |
+| 113736 | Raquel Vinagre   | <raquelvinagre@ua.pt>     | [raquelvinagre](https://github.com/raquelvinagre)               |
+
 ## To-Do
-- [x] Fiz teste para a locate! Basta fazer $ make test10
-- [ ] PIXMEM na ImageMatchSubImage
-- [ ] Fazer a função Clamp para a Blur
+done!
 
 ## Relatório
 [Relatório](https://uapt33090-my.sharepoint.com/:w:/g/personal/raquelvinagre_ua_pt/EcR63dF8OUVJnSbDMUyzQDYBQIKODndapcDy3vLkHjvrqA?e=FhowFi)
